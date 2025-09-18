@@ -42,7 +42,7 @@ The goal of the project is to create a device that is **both learning and practi
 | Stage | Illustration |
 |-----------|--------------|
 | Circuit design | ![](images/board.jpg) |
-| Assembly | ![](electronic component assembly.png) |
+| Assembly | (electronic component assembly.png) |
 | Finished product | ![](images/final.jpg) |
 
 ---
