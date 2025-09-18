@@ -26,10 +26,6 @@ The goal of the project is to create a device that is **both learning and practi
 
 ### 2. Actual assembly circuit
 ![PCB](images/pcb.png)
-
-### 3. 3D model (Fusion360)
-![3D Model](images/fusion360.png)
-
 ---
 
 ## ⚡ Features
